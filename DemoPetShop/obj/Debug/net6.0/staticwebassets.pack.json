@@ -1,0 +1,929 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DemoPetShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DemoPetShop.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\img\\anh-buon-cute.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\anh-buon-cute.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\about\\about-us.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-us.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\about\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\about\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\about\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\about\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\about\\testimonial-author.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\testimonial-author.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\about\\testimonial-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\testimonial-pic.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\banner\\thuc-an-cat-0.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\thuc-an-cat-0.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\banner\\thuc-an-cat-1.png",
+      "PackagePath": "staticwebassets\\img\\banner\\thuc-an-cat-1.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\banner\\thuc-an-dog-0.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\thuc-an-dog-0.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\banner\\thuc-an-dog-cat.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\thuc-an-dog-cat.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\blog\\details\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-author.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\blog\\details\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\blog\\page-pet-1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\page-pet-1.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\blog\\page-pet-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\page-pet-2.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\blog\\page-pet-3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\page-pet-3.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\clients\\client-8.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-8.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\icon\\calendar.png",
+      "PackagePath": "staticwebassets\\img\\icon\\calendar.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\icon\\cart.png",
+      "PackagePath": "staticwebassets\\img\\icon\\cart.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\icon\\compare.png",
+      "PackagePath": "staticwebassets\\img\\icon\\compare.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\icon\\heart.png",
+      "PackagePath": "staticwebassets\\img\\icon\\heart.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\icon\\search.png",
+      "PackagePath": "staticwebassets\\img\\icon\\search.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\instagram\\cat0.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\cat0.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\instagram\\cat1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\cat1.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\instagram\\cat2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\cat2.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\instagram\\dog0.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\dog0.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\instagram\\dog1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\dog1.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\instagram\\dog2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\dog2.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\payment.png",
+      "PackagePath": "staticwebassets\\img\\payment.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product-sale.png",
+      "PackagePath": "staticwebassets\\img\\product-sale.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-13.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-14.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-14.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shop-details\\details-payment.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\details-payment.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shop-details\\product-big-2.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\product-big-2.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shop-details\\product-big-3.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\product-big-3.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shop-details\\product-big-4.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\product-big-4.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shop-details\\product-big.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\product-big.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shop-details\\thumb-1.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-1.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shop-details\\thumb-2.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-2.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shop-details\\thumb-3.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-3.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shop-details\\thumb-4.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-4.png"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shopping-cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-1.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shopping-cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-2.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shopping-cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-3.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\img\\shopping-cart\\cart-4.jpg",
+      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-4.jpg"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_about.scss",
+      "PackagePath": "staticwebassets\\sass\\_about.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\_base.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_checkout.scss",
+      "PackagePath": "staticwebassets\\sass\\_checkout.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\_header.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_product.scss",
+      "PackagePath": "staticwebassets\\sass\\_product.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_shop-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop-details.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_shop.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_shopping-cart.scss",
+      "PackagePath": "staticwebassets\\sass\\_shopping-cart.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "E:\\Project_ASP.NET Core\\DemoPetShop\\DemoPetShop\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DemoPetShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DemoPetShop.props",
+      "PackagePath": "build\\DemoPetShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DemoPetShop.props",
+      "PackagePath": "buildMultiTargeting\\DemoPetShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DemoPetShop.props",
+      "PackagePath": "buildTransitive\\DemoPetShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
